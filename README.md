@@ -3,6 +3,8 @@
 
 [![React](https://github.com/MarioTerron/logo-images/blob/master/logos/react.png)](https://reactjs.org)
 [![Redux](https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png)](http://redux.js.org)
+[![Webpack](https://github.com/MarioTerron/logo-images/blob/master/logos/webpack.png)](https://webpack.github.io)
+
 
 
 
